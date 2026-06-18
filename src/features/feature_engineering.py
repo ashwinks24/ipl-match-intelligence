@@ -419,10 +419,8 @@ def build_features(save: bool = True) -> pd.DataFrame:
     df = add_match_label(df)
 
     drop_cols = [
-    "striker",
-    "non_striker",
-    "bowler",
-    "player_dismissed",
+    
+    
     "other_wicket_type",
     "other_player_dismissed",
     "penalty",
