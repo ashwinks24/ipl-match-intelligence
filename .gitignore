@@ -219,5 +219,4 @@ __marimo__/
 data/raw/
 *.png
 .DS_Store
-data/processed/
-*.parquet
+
